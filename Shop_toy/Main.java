@@ -1,3 +1,4 @@
+package Shop_toy;
 public class Main {
     public static void main(String[] args) {
         // Создание объектов "Игрушки"
